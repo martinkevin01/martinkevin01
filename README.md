@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React JS**
 
+- There is my portfolio [https://troopl.com/martinkevingapie](https://troopl.com/martinkevingapie)
+
 - 💬 Ask me about **ruby, rails, Bootstrap**
 
 - 📫 How to reach me **martinkevingapie@gmail.com**
