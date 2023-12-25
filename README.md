@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **martinkevingapie@gmail.com**
 
-- There is my resume [https://app.enhancv.com/share/1e3cadc3/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/1e3cadc3/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- There is my resume [https://app.enhancv.com/share/fb003861/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/fb003861/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
