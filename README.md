@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Kevin Gapie</h1>
-<h3 align="center">With solid experience as a computer scientist, I broadened my skills by embarking on intensive training in full-stack web development at Bootcamp du Wagon in Montreal. Guided by my passion for programming, I have gained deep expertise in a range of languages ​​including JavaScript, Ruby, SQL as well as frameworks such as Ruby on Rails, Stimulus JS, Bootstrap.</h3>
+<h3 align="center">With solid experience as a computer scientist, I broadened my skills by embarking on intensive training in full-stack web development at Bootcamp the Wagon in Montreal. Guided by my passion for programming, I have gained deep expertise in a range of languages ​​including JavaScript, Ruby, SQL as well as frameworks such as Ruby on Rails, Stimulus JS, Bootstrap.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinkevin01&label=Profile%20views&color=0e75b6&style=flat" alt="martinkevin01" /> </p>
 
