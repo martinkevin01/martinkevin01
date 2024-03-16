@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- I collaborated in **MonstersMarket**
+- I collaborated on **MonstersMarket**
 
 - There is my portfolio [https://mkgapie.com]
 
