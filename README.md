@@ -9,13 +9,13 @@
 
 - I collaborated in **MonstersMarket**
 
-- There is my portfolio [https://troopl.com/martinkevingapie](https://troopl.com/martinkevingapie)
+- There is my portfolio [https://mkgapie.com]
 
 - 💬 Ask me about **ruby, rails, Bootstrap**
 
 - 📫 How to reach me **martinkevingapie@gmail.com**
 
-- There is my resume [https://app.enhancv.com/share/fb003861/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/fb003861/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- There is my resume [https://app.enhancv.com/share/b6a57021/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
